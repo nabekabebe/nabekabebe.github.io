@@ -3,9 +3,7 @@
 
   <h2 align="center">Nabek - Personal portfolio</h2>
 
-This website is fully responsive personal portfolio, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
-
-<a href="https://nabekabebe.github.io/"><strong>➥ Live Demo</strong></a>
+<a href="https://nabekabebe.github.io/Personal-Portfolio/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -22,13 +20,13 @@ To run **Nabek-portfolio** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/Nabek-portfolio.git
+sudo git clone https://github.com/nabekabebe/Personal-Portfolio.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/Nabek-portfolio.git
+git clone https://github.com/nabekabebe/Personal-Portfolio.git
 ```
 
 ### Contact
